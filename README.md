@@ -85,4 +85,4 @@ Business Analytics Foundations: Predictive, Prescriptive and Experimental Analyt
     <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white" alt="Netlify" height="40"/>
   </a>
 </div>
-<img width="468" height="657" alt="image" src="https://github.com/user-attachments/assets/09252340-8d7e-4b1c-a011-a8363c1675e9" />
+
