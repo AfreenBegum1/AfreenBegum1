@@ -41,7 +41,7 @@ Business Analytics Foundations: Predictive, Prescriptive and Experimental Analyt
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/afreen-b-04bb1125a)  
 - ✉️ **begumafreen215@gmail.com**  
-- 🌐 Portfolio: https://begum-afreen.netlify.app
+- 🌐 Portfolio: https://afreenbegum.netlify.app/
 
 ### 💻 Tech Stack:
 
